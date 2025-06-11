@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zp5bd97c4-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zp5bd97c4-java-springboot
